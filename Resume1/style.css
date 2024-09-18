@@ -1,4 +1,5 @@
-H1 {
-	font-size: 36px;
-	color: red;
+BODY {
+	font-family: 'Open Sans', arial, sans-serif;
+	font-size: 1em;
+	color:#444; 
 }
