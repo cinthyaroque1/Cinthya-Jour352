@@ -11,8 +11,15 @@ H1{
 	color:#33485e;
 
 }
-strong {
+strong{
 color:#33485e;
 text-transform:uppercase; 
 font-size:1.5em;
+}
+
+h2{ 
+font-size:1.5em;
+text-transform:uppercase;
+background-color:#33485e;
+color:#fff;
 }
