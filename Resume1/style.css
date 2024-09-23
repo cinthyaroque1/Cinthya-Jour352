@@ -38,18 +38,19 @@ width: 70%;
 min-width: 300px;
 }
 
-h3{ 
+.jobtitle { 
 	font-weight: 600;
 	font-size: 1.5em;
 }
 
-h4{
-font-size: 1.5em;
+.organization{
+font-size: 1.25em;
 }
 
-h5{
+.date{
 	font-style: italic;
 	font-size: 1em;
+	margin: 2px 0px 0px;
 }
 
 ul{
