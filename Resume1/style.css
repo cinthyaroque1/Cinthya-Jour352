@@ -13,6 +13,9 @@ BODY {font-family: 'Open Sans', arial, sans-serif;
 	text-transform:uppercase;
 	text-align:center;
 	color:#33485e;
+	border-bottom: 1px solid #33485e;
+	width: 60%;
+	min-width: 300px;
 }
 
 strong {
