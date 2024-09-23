@@ -8,7 +8,7 @@ BODY {font-family: 'Open Sans', arial, sans-serif;
 
 }
 
-H1{
+#name {
 	font-size:3em;
 	text-transform:uppercase;
 	text-align:center;
