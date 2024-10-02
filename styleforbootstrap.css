@@ -4,9 +4,20 @@ text-align: center;
 }
 
 .col1, .col2, .col3 {
-    size: 3em;
+    width: 3em;
 
 }
 .containertext-center2 {
     text-align: center;
 } 
+.special-elite-regular {
+    font-family: "Special Elite", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .h1, .h2, .h3, .navbar-brand, .bth{
+    font-family: "Special Elite", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
