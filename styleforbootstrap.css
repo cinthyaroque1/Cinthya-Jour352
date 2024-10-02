@@ -30,13 +30,13 @@ body {
 
 
   
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     /*Add CSS that only activates on screens less than 500px here*/
     h2{
         padding-top: 50px;
     }
 
-button {
+button{
     color: teal;
 }
 
