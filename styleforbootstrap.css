@@ -16,7 +16,7 @@ text-align: center;
     font-style: normal;
   }
 
-.i { 
+#i { 
     font-size: 7em;
  }
 
@@ -27,9 +27,17 @@ text-align: center;
 body {
     background-color: lightgreen;
   }
+
+
   
-  @media only screen and (max-width: 600px) {
-    .button {
-     background-color: teal;
+  @media screen and (max-width: 500px) {
+    /*Add CSS that only activates on screens less than 500px here*/
+    h2{
+        padding-top: 50px;
     }
+    
+button {
+    background-color: red;
+}
+
   }
