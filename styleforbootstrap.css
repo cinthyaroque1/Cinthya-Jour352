@@ -9,12 +9,12 @@ text-align: center;
 
 } 
 
-.h1,.h2,.h3,.btn,.navbar-brand {
+.H1,.H2,.H3,.btn,.navbar-brand {
     font-family: "Special Elite", system-ui;
     font-weight: 400;
     font-style: normal;
   }
 
- .bi{ 
+ .i { 
     width: 3em;
  }
