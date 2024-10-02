@@ -1,4 +1,9 @@
 /*styles for my resume*/
-.col { 
+.container text-center { 
 max-width: 0 auto;
+}
+
+.col1, .col2, .col3 {
+    size: 3em;
+
 }
