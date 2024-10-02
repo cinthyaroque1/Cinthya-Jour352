@@ -1,9 +1,12 @@
 /*styles for my resume*/
-.container text-center { 
-max-width: 0 auto;
+.containertext-center { 
+align: 0 auto;
 }
 
 .col1, .col2, .col3 {
     size: 3em;
 
 }
+.containertext-center2 {
+align:0 auto;
+} 
