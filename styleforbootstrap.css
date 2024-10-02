@@ -13,7 +13,7 @@ text-align: center;
   }
 
 .bi { 
-    width: 7em;
+    width: 5em;
  }
 
 .row{ 
@@ -28,7 +28,7 @@ text-align: center;
         padding-top: 50px;
     }
 
-btn-dark{
+.btn-dark{
     color: teal;
 }
 
