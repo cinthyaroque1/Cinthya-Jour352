@@ -16,8 +16,8 @@ text-align: center;
     font-style: normal;
   }
 
-#i { 
-    font-size: 7em;
+.i { 
+    width: 7em;
  }
 
 .row{ 
@@ -35,9 +35,9 @@ body {
     h2{
         padding-top: 50px;
     }
-    
+
 button {
-    background-color: red;
+    color: teal;
 }
 
   }
