@@ -1,6 +1,6 @@
 /*styles for my resume*/
 .containertext-center { 
-align: 0 auto;
+text-align: center;
 }
 
 .col1, .col2, .col3 {
@@ -8,5 +8,5 @@ align: 0 auto;
 
 }
 .containertext-center2 {
-align:0 auto;
+    text-align: center;
 } 
