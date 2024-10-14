@@ -18,3 +18,9 @@ h1{
     font-family: Georgia, serif;
     font-size: 13px;
     }
+
+    blockquote{
+        font-size: 20px;
+        font-display: bold;
+
+    }
