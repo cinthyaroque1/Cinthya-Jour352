@@ -1,4 +1,4 @@
-
+ /*styles for my website*/
 
 #content{
     margin:0 auto;
@@ -37,4 +37,13 @@ p{
 #caption{
     font-family:sans-serif;
     font-size: 15px;
+}
+#subheading2{
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.Readmore{
+
 }
