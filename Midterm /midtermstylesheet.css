@@ -2,7 +2,7 @@
 
 #content{
     margin:0 auto;
-    width: 600px;
+    width: 800px;
 }
 #Headline {
     font-family: Helvetica, sans-serif;
@@ -28,8 +28,13 @@
     font-family: Helvetica, sans-serif;
     font-size: 25px;
     font-weight: 700;
+    font-style: italic;
 }
 p{
     font-family: Helvetica,Arial, sans-serif;
+    font-size: 18px;
+}
+#caption{
+    font-family:sans-serif;
     font-size: 15px;
 }
