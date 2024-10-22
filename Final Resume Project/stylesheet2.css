@@ -1,5 +1,5 @@
 .image-container {
-    position: relative;
+    position: center;
     display: inline-block;
   }
   
@@ -10,12 +10,13 @@
   }
   
   .containertext-center {
-    position: absolute;
+    position: bottom;
+    background-position: bottom;
     top: 50%; 
     left: 50%; 
     transform: translate(-50%, -50%); 
-    background-color: #000000; 
+    background-color:#3c1414; 
     color: #fff; 
     padding: 10px 20px; 
-    font-size: 20px; 
+    font-size: 50px; 
     text-align: center;}
