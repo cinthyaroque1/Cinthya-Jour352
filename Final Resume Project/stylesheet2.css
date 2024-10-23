@@ -66,7 +66,7 @@ font-size: 1.5em;
 text-align: left;
 }
 
-.date{
+.date,.caption {
 	font-style: italic;
 	font-size: 1em;
 	margin: 2px 0px 0px;
