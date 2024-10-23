@@ -1,22 +1,102 @@
-.image-container {
-    position: center;
-    display: inline-block;
+.containertext-center { 
+  text-align: center;
   }
   
-  .image-container img {
-    display: block;
+  
+  
+  .navbar-brand, h1, h2, h3, .btn {
+      font-family: "Special Elite", system-ui;
+      font-weight: 400;
+      font-style: normal;
+    }
+  
+  .bi { 
+      size: 3em;
+   }
+  
+  .row{ 
+      padding-bottom: 50px;
+  }
+
+  .mainimg{
     width: 100%;
-    height: auto;
+    
+  }
+
+  body {font-family: 'Open Sans', arial, sans-serif;
+    font-size: 1em;
+    color:#000000; 
+    font-weight:400;
+  
   }
   
-  .containertext-center {
-    position: bottom;
-    background-position: bottom;
-    top: 50%; 
-    left: 50%; 
-    transform: translate(-50%, -50%); 
-    background-color:#3c1414; 
-    color: #fff; 
-    padding: 10px 20px; 
-    font-size: 50px; 
-    text-align: center;}
+.statement{
+  font-size: 2.75em;
+  text-align: center;
+  color: black;
+  font-style: italic;
+  font-weight: 600;
+  margin-bottom: 0%;
+}
+    .header { 
+      font-size:3em;
+      font-weight: 600;
+      text-transform:uppercase;
+      background-color:#480a06;
+      color:white;
+      margin-bottom: 10px;
+      margin-top: 20px;
+      margin-left: 0px;
+      margin-right: 0px;
+      width: 100%;
+      min-width: 300px;
+      }
+      
+
+
+.jobtitle { 
+	font-weight: 600;
+	font-size: 2em;
+  text-align: left;
+}
+
+.organization{
+
+font-size: 1.5em;
+text-align: left;
+}
+
+.date{
+	font-style: italic;
+	font-size: 1em;
+	margin: 2px 0px 0px;
+  text-align: left;
+}
+
+
+.description {
+	margin: 10px 0px;
+  text-align: left;
+}
+
+#degrees{ 
+	margin: 5px 0px 0px;
+}
+
+#do{
+	margin: 5px 0px 0px;
+}
+
+.top{
+width: 60%;	
+min-width: 300px;
+margin: 0 auto;
+margin-bottom: 30px;
+}
+
+.textbox{ 
+	width: 100%;
+	max-width: 1200px;
+	padding-bottom: 50px;
+}
+  
