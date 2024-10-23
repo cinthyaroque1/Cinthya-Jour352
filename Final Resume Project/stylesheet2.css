@@ -108,3 +108,6 @@ margin-bottom: 30px;
     font-size: 2em;
     font-weight: 500;
   }
+.card{
+ display: inline-flex;
+}
