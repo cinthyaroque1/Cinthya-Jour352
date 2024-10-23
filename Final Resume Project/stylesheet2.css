@@ -37,7 +37,7 @@
   font-weight: 600;
   margin-bottom: 0%;
 }
-    .header { 
+ .header { 
       font-size:3em;
       font-weight: 600;
       text-transform:uppercase;
@@ -99,14 +99,13 @@ margin-bottom: 30px;
 	max-width: 1200px;
 	padding-bottom: 50px;
 }
-  h3{
-    font-size: 2em;
-    font-weight: 600;
-  }
-  h2{
+  h3,h2 {
     font-size: 2em;
     font-weight: 600;
   }
 .card{
  display: inline-flex;
+}
+li{
+  font-size: 1.25em;
 }
