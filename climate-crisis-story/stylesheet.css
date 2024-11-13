@@ -50,6 +50,11 @@
 
 .gold{
     color: #FFD700;
+    font-weight: 700;
+}
+.word{
+    font-weight: 700;
+    font-size: 2em;
 }
 
 /* Splash area */
@@ -82,6 +87,17 @@ padding-bottom: 10px;
 .hero-subhead{
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: .25em;
+}
+
+.quote{
+    font-size: 3em;
+    font-weight: 600;
+
+}
+
+.quote-attribution{
+    font-style: italic;
+ font-size: .5em !important;
 }
 
 @media(max-width:650x) {
