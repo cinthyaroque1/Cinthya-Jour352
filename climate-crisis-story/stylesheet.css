@@ -1,0 +1,35 @@
+.container{
+    font-family: 'Open Sans', arial, sans-serif;
+    margin:0 auto;
+    width: 1000px;
+}
+
+#Headline {
+    text-align: center;
+    font-weight: 700;
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+#byline{
+    text-align: center;
+    font-weight: 400;
+    font-size: 1em;
+    font-style: italic;
+}
+
+#headline2{
+    text-align: left;
+    font-weight: 700;
+    font-size: 2em;
+    text-transform: uppercase;
+  
+}
+#caption{
+    font-style: italic;
+}
+
+.nav-logo {
+    color:white;
+    margin: 0 auto; 
+}
