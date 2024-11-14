@@ -100,9 +100,6 @@ font-size: .25em;
  font-size: .5em !important;
 }
 
-iframe{
-    margin: center;
-}
 
 @media(max-width:650x) {
 
