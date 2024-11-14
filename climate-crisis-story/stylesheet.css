@@ -158,6 +158,11 @@ a:link {
 
 @media(max-width:650x) {
 
+    .container{
+        width: 650px;
+    }
+
+
     .text{
         padding-left:20px;
         padding-right: 10px;
