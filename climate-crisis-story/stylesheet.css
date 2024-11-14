@@ -123,8 +123,10 @@ font-size: .25em;
     text-align: center !important;
 }
 .info2{
-    text-align: center !important;
+    margin: auto 0;
+    font-style: italic;
 }
+
 .list{
     text-align: left !important;
 }
