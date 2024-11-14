@@ -175,7 +175,7 @@ a:link {
     }
     
     .hero-container{
-        position: relative;
+       width:100%;
     }
 
 }
