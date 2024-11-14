@@ -174,7 +174,7 @@ a:link {
 
     .overlay {
      max-width: 650px;
-     max-height: 20px;
+     max-height: 20%;
      top: 20%;
      bottom: 50%;
     }
