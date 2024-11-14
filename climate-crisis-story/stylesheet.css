@@ -101,6 +101,30 @@ font-size: .25em;
 }
 
 
+.box{
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+    color:black;
+    background-color: #FFD700; ;
+
+}
+.title2{
+    font-weight: 800;
+    font-size: 2em;
+}
+.info{
+    font-weight: 600;
+}
+.list{
+    text-align: left !important;
+}
+
 @media(max-width:650x) {
 
     p{
