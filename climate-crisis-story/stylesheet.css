@@ -157,12 +157,12 @@ a:link {
 
 @media(max-width:650x) {
 
-    p{
+    .text{
         padding-left:20px;
         padding-right: 10px;
     }
 
-    .chapter-head {
+    .headline{
         font-size:1.25em; 
     }
 
@@ -171,8 +171,9 @@ a:link {
     }
 
     .hero-head{
-        font-size:1.5em;
+        font-size:1em;
     }
+    
     
 
 }
