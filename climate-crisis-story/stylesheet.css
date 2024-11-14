@@ -172,7 +172,7 @@ a:link {
         font-size:1.25em; 
     }
 
-    .hed{
+    .overlay{
         font-size:2em; 
     }
 
@@ -181,7 +181,8 @@ a:link {
     }
     
     .hero-container{
-       width:650px;
+       width:100%;
+
     }
 
 
