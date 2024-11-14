@@ -175,6 +175,7 @@ a:link {
     .overlay {
      max-width: 650px;
      height: 20px;
+     top: 20%;
     }
 
     .hero-head{
