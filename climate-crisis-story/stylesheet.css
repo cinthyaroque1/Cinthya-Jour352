@@ -120,10 +120,30 @@ font-size: .25em;
 }
 .info{
     font-weight: 600;
+    text-align: center;
 }
 .list{
     text-align: left !important;
 }
+/* unvisited link */
+a:link {
+    color: blue;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
 
 @media(max-width:650x) {
 
@@ -143,5 +163,6 @@ font-size: .25em;
     .hero-head{
         font-size:1.5em;
     }
+    
 
 }
