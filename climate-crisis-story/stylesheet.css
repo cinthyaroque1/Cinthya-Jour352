@@ -173,23 +173,22 @@ a:link {
     }
 
     .overlay {
-     max-width: 650px;
-     position: absolute;
-     top:30%;
-     left:50%;
-     transform: translate(-50%, -50%);
-     padding:20px;
-     width:80%;
-     text-align: center;
-     border-radius: 10px;
+  max-width: 90%;
+  max-height: 20%;
+  top: 20%;
+  bottom: auto;
+  padding:15px; 
     }
 
     .hero-head{
-        font-size:.5em;
+        font-size:2em;
     }
     
     .hero-container{
-       width:100%;
+        position: relative;
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
 
 
     }
