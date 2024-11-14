@@ -130,6 +130,10 @@ font-size: .25em;
 .list{
     text-align: left !important;
 }
+
+.row {
+    position: relative;
+}
 /* unvisited link */
 a:link {
     color: blue;
