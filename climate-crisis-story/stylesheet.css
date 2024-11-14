@@ -132,7 +132,7 @@ font-size: .25em;
 }
 
 .row {
-    position: absolute;
+   margin: 0 auto;
 }
 /* unvisited link */
 a:link {
