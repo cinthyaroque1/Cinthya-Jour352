@@ -173,7 +173,8 @@ a:link {
     }
 
     .overlay {
-       position:absolute ;
+
+        height: fit-content;
     }
 
     .hero-head{
