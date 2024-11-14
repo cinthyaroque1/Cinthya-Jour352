@@ -172,8 +172,8 @@ a:link {
         font-size:1.25em; 
     }
 
-    .overlay{
-        font-size:.5em; 
+    .overlay {
+       position:absolute ;
     }
 
     .hero-head{
