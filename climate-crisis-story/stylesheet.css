@@ -180,6 +180,7 @@ a:link {
     }
     .box{
         width: 550px;
+        height: 550px;
         align-content: center;
     }
 
