@@ -158,7 +158,7 @@ a:link {
     color: blue;
   }
 
-@media(max-width:650x) {
+@media(max-width:650px) {
 
     .container{
         width: 650px;
