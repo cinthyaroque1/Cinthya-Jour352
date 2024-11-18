@@ -162,6 +162,7 @@ a:link {
 
     .container{
         width: 100%;
+        align-content: center;
     }
 
 
@@ -177,7 +178,9 @@ a:link {
     .hero-head{
         font-size: 3em;
     }
+    .box{
 
+    }
   
     
 
