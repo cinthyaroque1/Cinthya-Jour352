@@ -181,7 +181,27 @@ a:link {
     .box{
         width: 550px;
         align-content: center;
+    }
 
+    .title2{
+        font-weight: 800;
+        font-size: 1.5em;
+    }
+    .info{
+        font-weight: 600;
+        text-align: center !important;
+        font-size: 1em;
+    }
+    .info2{
+        margin: auto 0;
+        font-style: italic;
+        text-align: center !important;
+        font-size: 1em;
+    }
+    
+    .list{
+        text-align: left !important;
+        font-size: 1em;
     }
   
     
