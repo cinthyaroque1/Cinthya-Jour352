@@ -179,6 +179,7 @@ a:link {
         font-size: 3em;
     }
     .box{
+        width: 650px;
         align-content: center;
 
     }
