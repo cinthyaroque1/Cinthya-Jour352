@@ -161,7 +161,7 @@ a:link {
 @media(max-width:650px) {
 
     .container{
-        width: 650px;
+        width: 100%;
     }
 
 
