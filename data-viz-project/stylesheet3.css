@@ -19,10 +19,6 @@
     color: #f20e0e;
     font-weight: 700;
 }
-.blue{
-    color: hsl(248, 100%, 47%);
-    font-weight: 700;
-}
 
 /* Splash area */
 .hero-container {
@@ -52,7 +48,6 @@ color: white;
 font-size: 5em;
 margin: 0 auto;
 padding-bottom: 10px;
-font
 }
 
 .hero-subhead {
@@ -82,6 +77,6 @@ font-size: .50em;
 
 }
 .name {
-    font-size:  !important 2em;
+    font-size: 2em;
     font-weight: 700; 
 }
