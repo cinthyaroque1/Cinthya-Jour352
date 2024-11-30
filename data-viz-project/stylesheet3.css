@@ -22,6 +22,10 @@
     color: #f20e0e;
     font-weight: 700;
 }
+.blue{
+    color: hsl(248, 100%, 47%);
+    font-weight: 700;
+}
 
 /* Splash area */
 .hero-container {
@@ -54,7 +58,23 @@ padding-bottom: 10px;
 font
 }
 
-.hero-subhead{
+.hero-subhead {
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: .50em;
+}
+
+/* Body of Main Navigation Page */
+#Headline {
+    text-align: center;
+    font-weight: 700;
+    font-size: 2em;
+    text-transform: uppercase;
+    padding-top: 50px;
+  
+}
+#byline{
+    text-align: center;
+    font-weight: 400;
+    font-size: 1em;
+    text-transform: uppercase;
 }
