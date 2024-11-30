@@ -5,10 +5,11 @@
     color: black;
 }
 
-.nav-logo {
+.navbar-brand{
     color:white;
     margin: 0 auto; 
     font-weight: 700;
     text-transform: uppercase;
+    font-display: center;
   
 }
