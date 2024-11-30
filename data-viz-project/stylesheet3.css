@@ -59,7 +59,7 @@ font
 }
 
 .hero-subhead {
-font-family: Georgia, 'Times New Roman', Times, serif;
+font-family: 'Times New Roman', Times, serif;
 font-size: .50em;
 }
 
@@ -77,4 +77,14 @@ font-size: .50em;
     font-weight: 400;
     font-size: 1em;
     text-transform: uppercase;
+}
+.display-quote {
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.25em;
+
+}
+.name {
+    font-size:  !important 2em;
+    font-weight: 700; 
 }
